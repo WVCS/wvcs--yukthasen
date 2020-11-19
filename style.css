@@ -1,0 +1,50 @@
+ <style>
+
+ body {
+  font-size: 28px;
+   background-color: #4F4F51;
+}
+
+h1 {
+  font-size: 200%;
+  color: #D6D6D6;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F58F7C;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #F2C4CE;
+}
+</style>
+
+
+    
+    
+    
+  </style>
